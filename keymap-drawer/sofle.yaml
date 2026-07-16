@@ -79,13 +79,13 @@ layers:
   - {t: ▽, type: trans}
   - INS
   - PSCRN
-  - CMENU
+  - Gui+SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
-  - {t: ▽, type: trans}
+  - HOME
   - UP
-  - {t: ▽, type: trans}
+  - END
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -101,14 +101,14 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
-  - PASTE
+  - Gui+Z
+  - Gui+X
+  - Gui+C
+  - Gui+PASTE
+  - Gui+Sft+V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Gui+Ctl+Sft+4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
