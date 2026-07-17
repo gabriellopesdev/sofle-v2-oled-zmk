@@ -77,8 +77,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - INS
-  - PSCRN
+  - Gui+Ctl+Q
+  - INSERT
   - Gui+SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -86,13 +86,13 @@ layers:
   - HOME
   - UP
   - END
-  - Gui+Ctl+Sft+0
+  - Gui+Ctl+Sft+4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LALT
   - LCTRL
   - LSHFT
-  - {t: ▽, type: trans}
+  - Alt+Sft+Gui+V
   - CLCK
   - PG DN
   - LEFT
